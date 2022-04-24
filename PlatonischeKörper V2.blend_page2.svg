@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'
+    width='210.00mm' height='297.00mm' viewBox='0 0 210.00 297.00'>
+<style type="text/css">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #1a1a1a;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.3;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #1a1a1a;
+        stroke-dasharray: none;
+        stroke-dashoffset:0;
+        stroke-width:0.2;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #000000;
+        stroke-dasharray: 1.00,0.50,0.20,0.50;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.5
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.2
+    }
+    path.sticker {
+        fill: #ffffff;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+<g>
+<path class='sticker' d=' M 19.779374 204.043354 L 14.132042 202.842969 L 5.000000 174.737456 L 8.863215 170.446898 Z
+M 94.599773 258.403550 L 98.463004 262.694086 L 91.006865 285.641740 L 85.359518 286.842103 Z
+M 94.599773 149.683143 L 95.203270 155.425022 L 71.295273 172.795187 L 66.020918 170.446898 Z
+M 66.020918 170.446898 L 69.884141 174.737449 L 60.752113 202.842969 L 55.104774 204.043346 Z
+M 48.358214 116.086702 L 51.244964 111.086707 L 80.796872 111.086692 L 83.683630 116.086702 Z '/>
+<path class='convex' d=' M 66.020918 170.446898 L 37.442078 149.683143
+M 8.863215 170.446898 L 19.779374 204.043354
+M 19.779374 204.043354 L 55.104774 204.043346
+M 55.104774 204.043346 L 66.020918 170.446898
+M 37.442070 258.403535 L 66.020926 237.639810
+M 85.359518 286.842103 L 94.599773 258.403550
+M 66.020918 170.446898 L 94.599773 149.683143
+M 94.599773 149.683143 L 83.683630 116.086702
+M 83.683630 116.086702 L 48.358214 116.086702 '/>
+<path class='outer' d=' M 66.020926 237.639810 L 94.599773 258.403550 L 98.463004 262.694086 L 91.006865 285.641740 L 85.359518 286.842103 L 77.013900 291.999991 L 48.358222 291.999991 L 37.442070 258.403535 L 8.863215 237.639795 L 19.779374 204.043354 L 14.132042 202.842969 L 5.000000 174.737456 L 8.863215 170.446898 L 37.442078 149.683143 L 48.358214 116.086702 L 51.244964 111.086707 L 80.796872 111.086692 L 83.683630 116.086702 L 112.262462 95.322947 L 136.453767 112.898956 L 139.165421 121.244575 L 129.925174 149.683143 L 94.599773 149.683143 L 95.203270 155.425022 L 71.295273 172.795187 L 66.020918 170.446898 L 69.884141 174.737449 L 60.752113 202.842969 L 55.104774 204.043346 Z '/>
+</g>
+</svg>
